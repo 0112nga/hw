@@ -72,8 +72,6 @@ def decisionTree(rootTree, arr):
                 x.S = G(x.gain_S , x)
                 nextChild = findRoot(arr)
                 deciTree.child[index[i]] = nextChild
-                # arr.remove(nextChild)
-                break
         if containTree(arr):
             decisionTree(deciTree.child[index[i]],arr)
     return deciTree
