@@ -1,0 +1,39 @@
+Learning data file name? training.txt
+
+What would you like to do?
+1: Get the score of a word
+2: Get the average score of words in a file 
+3: Find the highest / lowest scoring words in a file
+4: Sort the words into positive.txt and negative.txt
+5: Exit the program
+Enter a number 1 – 5: 4
+
+What would you like to do?
+1: Get the score of a word
+2: Get the average score of words in a file 
+3: Find the highest / lowest scoring words in a file
+4: Sort the words into positive.txt and negative.txt
+5: Exit the program
+Enter a number 1 – 5: 1
+which word? birthday
+score = 2.78
+birthday is positive
+
+What would you like to do?
+1: Get the score of a word
+2: Get the average score of words in a file 
+3: Find the highest / lowest scoring words in a file
+4: Sort the words into positive.txt and negative.txt
+5: Exit the program
+Enter a number 1 – 5: 3
+file name? waste.txt
+Maximum score is 2.1453917050691245 for of
+Minimum score is 1.0625 for waste
+
+What would you like to do?
+1: Get the score of a word
+2: Get the average score of words in a file 
+3: Find the highest / lowest scoring words in a file
+4: Sort the words into positive.txt and negative.txt
+5: Exit the program
+Enter a number 1 – 5: 5

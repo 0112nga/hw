@@ -1,0 +1,72 @@
+Learning data file name? training.txt
+
+What would you like to do?
+1: Get the score of a word
+2: Get the average score of words in a file 
+3: Find the highest / lowest scoring words in a file
+4: Sort the words into positive.txt and negative.txt
+5: Exit the program
+Enter a number 1 – 5: 1
+which word? cat
+score = 3.17
+cat is positive
+
+What would you like to do?
+1: Get the score of a word
+2: Get the average score of words in a file 
+3: Find the highest / lowest scoring words in a file
+4: Sort the words into positive.txt and negative.txt
+5: Exit the program
+Enter a number 1 – 5: caaaaat
+
+What would you like to do?
+1: Get the score of a word
+2: Get the average score of words in a file 
+3: Find the highest / lowest scoring words in a file
+4: Sort the words into positive.txt and negative.txt
+5: Exit the program
+Enter a number 1 – 5: 1
+which word? caaaaaat
+
+What would you like to do?
+1: Get the score of a word
+2: Get the average score of words in a file 
+3: Find the highest / lowest scoring words in a file
+4: Sort the words into positive.txt and negative.txt
+5: Exit the program
+Enter a number 1 – 5: 1
+which word? dog
+score = 1.6
+dog is negative
+
+What would you like to do?
+1: Get the score of a word
+2: Get the average score of words in a file 
+3: Find the highest / lowest scoring words in a file
+4: Sort the words into positive.txt and negative.txt
+5: Exit the program
+Enter a number 1 – 5: 2
+file name? cat.txt
+score = 2.44
+my cat is the best
+ is positive
+Am I right (yes/no)? yes
+
+What would you like to do?
+1: Get the score of a word
+2: Get the average score of words in a file 
+3: Find the highest / lowest scoring words in a file
+4: Sort the words into positive.txt and negative.txt
+5: Exit the program
+Enter a number 1 – 5: 3
+file name? cat.txt
+Maximum score is 3.1666666666666665 for cat
+Minimum score is 2.0260047281323876 for is
+
+What would you like to do?
+1: Get the score of a word
+2: Get the average score of words in a file 
+3: Find the highest / lowest scoring words in a file
+4: Sort the words into positive.txt and negative.txt
+5: Exit the program
+Enter a number 1 – 5: 5

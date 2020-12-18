@@ -1,0 +1,128 @@
+Learning data file name? training.txt
+
+What would you like to do?
+1: Get the score of a word
+2: Get the average score of words in a file 
+3: Find the highest / lowest scoring words in a file
+4: Sort the words into positive.txt and negative.txt
+5: Exit the program
+Enter a number 1 – 5: 2
+file name? waste.txt
+score = 1.89
+what a waste of my time. 
+ is negative
+Am I right (yes/no)? yes
+
+What would you like to do?
+1: Get the score of a word
+2: Get the average score of words in a file 
+3: Find the highest / lowest scoring words in a file
+4: Sort the words into positive.txt and negative.txt
+5: Exit the program
+Enter a number 1 – 5: 2
+file name? waste.txt
+score = 1.89
+what a waste of my time. 
+ is negative
+Am I right (yes/no)? yes
+
+What would you like to do?
+1: Get the score of a word
+2: Get the average score of words in a file 
+3: Find the highest / lowest scoring words in a file
+4: Sort the words into positive.txt and negative.txt
+5: Exit the program
+Enter a number 1 – 5: 1
+which word? best
+score = 2.92
+best is positive
+
+What would you like to do?
+1: Get the score of a word
+2: Get the average score of words in a file 
+3: Find the highest / lowest scoring words in a file
+4: Sort the words into positive.txt and negative.txt
+5: Exit the program
+Enter a number 1 – 5: 1
+which word? theater
+score = 1.73
+theater is negative
+
+What would you like to do?
+1: Get the score of a word
+2: Get the average score of words in a file 
+3: Find the highest / lowest scoring words in a file
+4: Sort the words into positive.txt and negative.txt
+5: Exit the program
+Enter a number 1 – 5: 1
+which word? thing
+score = 1.53
+thing is negative
+
+What would you like to do?
+1: Get the score of a word
+2: Get the average score of words in a file 
+3: Find the highest / lowest scoring words in a file
+4: Sort the words into positive.txt and negative.txt
+5: Exit the program
+Enter a number 1 – 5: 2
+file name? best.txt
+score = 2.03
+This is the very best thing ever to happen to theater!!!
+ is positive
+Am I right (yes/no)? no
+What score should this sentence have (0 - 4 where 4 is the most positive)? 4
+
+What would you like to do?
+1: Get the score of a word
+2: Get the average score of words in a file 
+3: Find the highest / lowest scoring words in a file
+4: Sort the words into positive.txt and negative.txt
+5: Exit the program
+Enter a number 1 – 5: 1
+which word? best
+score = 2.93
+best is positive
+
+What would you like to do?
+1: Get the score of a word
+2: Get the average score of words in a file 
+3: Find the highest / lowest scoring words in a file
+4: Sort the words into positive.txt and negative.txt
+5: Exit the program
+Enter a number 1 – 5: 1
+which word? theater
+score = 1.67
+theater is negative
+
+What would you like to do?
+1: Get the score of a word
+2: Get the average score of words in a file 
+3: Find the highest / lowest scoring words in a file
+4: Sort the words into positive.txt and negative.txt
+5: Exit the program
+Enter a number 1 – 5: 1
+which word? thing
+score = 1.56
+thing is negative
+
+What would you like to do?
+1: Get the score of a word
+2: Get the average score of words in a file 
+3: Find the highest / lowest scoring words in a file
+4: Sort the words into positive.txt and negative.txt
+5: Exit the program
+Enter a number 1 – 5: 2
+file name? best.txt
+score = 2.06
+This is the very best thing ever to happen to theater!!!
+ is positive
+Am I right (yes/no)? yes
+
+What would you like to do?
+1: Get the score of a word
+2: Get the average score of words in a file 
+3: Find the highest / lowest scoring words in a file
+4: Sort the words into positive.txt and negative.txt
+5: Exit the program
+Enter a number 1 – 5: 5
