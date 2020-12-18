@@ -1,6 +1,6 @@
 def main():
     # learningFile = input('Learning data file name: ')
-    learningFile = 'training.txt'
+    learningFile = 'test.TXT'
     print('What would you like to do?'
           '\n1: Get the score of a word'
           '\n2: Get the average score of words in a file'
@@ -87,7 +87,7 @@ def charCheck(input_char):
     else:
         return 0
 def getScoreOfWord(word):
-    dictData = getData('training.txt')[0]
+    dictData = getData('test.TXT')[0]
     # dataCount = getData('test.TXT')[1]
     score = 0
     message = ''
